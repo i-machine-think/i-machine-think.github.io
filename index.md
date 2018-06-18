@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I-machine-think is a project lead by <a href="https://eliabruni.github.io" target="_blank">Elia Bruni</a> and <a href="https://dieuwkehupkes.nl" target="_blank">Dieuwke Hupkes</a>, focussed on understanding the requirements to build general AI systems.
+The project has a strong focus on compositional learning, which is considered to be one of the hallmarks of human intelligence, but also 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+To get more information about the individual projects that are running within i-machine-think, check the [projects](projects.md) page of this website.
 
-What else do you need?
+Something about our codebase?
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
