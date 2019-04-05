@@ -1,0 +1,16 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Gautier Dagan
+  photo: rock.jpg
+  info: AI Msc student
+  email: -@student.uva.nl
+  number_educ: 0
+  education1:

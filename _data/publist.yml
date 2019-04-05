@@ -1,0 +1,20 @@
+- title: "Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure"
+  image: dummy.png
+  description: "We investigate how neural networks can learn and process languages with hierarchical, compositional semantics. To this end, we define the artificial task of processing nested arithmetic expressions, and study whether different types of neural networks can learn to compute their meaning. We find that recursive neural networks can find a generalising solution to this problem, and we visualise this solution by breaking it up in three steps: project, sum and squash."
+  authors: Dieuwke Hupkes*, Sara Veldhoen, Willem Zuidema
+  link:
+    url: https://arxiv.org/abs/1711.10203
+    display:  arxiv:1711.10203
+  highlight: 1
+  news2:
+
+- title: "Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure"
+  image: dummy.png
+  description: "We investigate how neural networks can learn and process languages with hierarchical, compositional semantics. To this end, we define the artificial task of processing nested arithmetic expressions, and study whether different types of neural networks can learn to compute their meaning. We find that recursive neural networks can find a generalising solution to this problem, and we visualise this solution by breaking it up in three steps: project, sum and squash."
+  authors: Dieuwke Hupkes*, Sara Veldhoen, Willem Zuidema
+  link:
+    url: https://arxiv.org/abs/1711.10203
+    display:  arxiv:1711.10203
+  highlight: 1
+  news2:
+
