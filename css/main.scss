@@ -1,4 +1,7 @@
---- --- @import "bootstrap";
+--- 
+# main.scss 
+--- 
+@import "bootstrap";
 
 img {
 	margin-bottom: 24px;
@@ -17,10 +20,7 @@ figcaption {
 	margin-bottom: 20px;
 }
 
-
-
 /* Top navigation bar */
-
 
 p.byline {
 	text-align: center;
