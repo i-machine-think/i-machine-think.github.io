@@ -27,6 +27,7 @@ Jump to [project Leaders](#project-leaders), [master and bachelor students](#mas
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <b><br><br>Interests: </b>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -38,26 +39,21 @@ Jump to [project Leaders](#project-leaders), [master and bachelor students](#mas
   <li> {{ member.education2 }} </li>
   {% endif %}
 
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
+  {% if member.number_interests == 1 %}
+  <li> {{ member.interest1 }} </li>
   {% endif %}
 
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
+  {% if member.number_interests == 2 %}
+  <li> {{ member.interest1 }} </li>
+  <li> {{ member.interest2 }} </li>
   {% endif %}
 
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
+  {% if member.number_interests == 3 %}
+  <li> {{ member.interest1 }} </li>
+  <li> {{ member.interest2 }} </li>
+  <li> {{ member.interest3 }} </li>
   {% endif %}
+
 
   </ul>
 </div>
@@ -146,7 +142,7 @@ Jump to [project Leaders](#project-leaders), [master and bachelor students](#mas
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}<br>email: <{{ member.email }}></i>
+  {{member.role}}<br><i>{{ member.duration }} <br> Current role: {{ member.info }} </i>
   <ul style="overflow: hidden">
 
   </ul>
