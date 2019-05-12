@@ -1,10 +1,35 @@
-# - name: Gijsbert Verdoes
-#   photo: verdoes.jpg
-#   duration: In the Allan Lab 2015 - 2018, now Project manager at the FMD
-#   info: Fine mechanical engineer associated with the FMD working in our group
-#   email: verdoes@fmd.physics.leidenuniv.nl
-#   number_educ: 1
-#   education1: Leidse instrumentmakers School
-#   education2:
-#   education3:
-#   education4:
+ - name: Anand Kumar Singh
+   photo: ASingh.jpeg
+   role: Master thesis
+   duration: January - Augustus 2018
+   info: ING
+
+ - name: Kris Korrel
+   photo: KKorrel.jpeg
+   role: Master thesis
+   duration: January - November 2018
+   info: clockworks.co
+
+ - name: Rezka Aufar Leonandya
+   photo: RLeonandya.jpeg
+   role: Master thesis
+   duration: January - August 2018
+   info: PhD student with Alexander Koller, Saarbrucken
+
+ - name: Ujjwal Sharma
+   photo: USharma.jpeg
+   role: Master thesis
+   duration: January - September 2018
+   info:  PhD Student with Stevan Rudinac, UvA 
+
+ - name: Krsto Prorocovic
+   photo: KProrokovic.png 
+   role: Master thesis
+   duration: January - September 2018
+   info: PhD Student with Juergen Schmidhuber, IDSIA
+
+ - name: Sanne Bouwmeester
+   photo: SBouwmeester.jpeg 
+   role: Master thesis
+   duration: January - September 2018
+   info:  Bussiness Intelligence Expert/Developer at Topicus
