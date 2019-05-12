@@ -7,10 +7,74 @@
 #  education2:
 #  education3:
 #  education4:
+#
+- name: Tim Baumgaertner
+  photo: TBaumgaertner.jpeg 
+  info: AI Msc student, UvA
+  email: baumgaertner.t@gmail.com 
 
 - name: Gautier Dagan
-  photo: rock.jpg
-  info: AI Msc student
-  email: -@student.uva.nl
-  number_educ: 0
-  education1:
+  photo: GDagan.jpeg
+  info: AI Msc student, UvA
+  email: gautier.dagan@student.uva.nl
+
+- name: Verna Dankers
+  photo: VDankers.jpeg
+  info: AI Msc student, UvA
+  email: verna.dankers@student.uva.nl
+
+- name: Yann Dubois
+  photo: YDubois.jpeg
+  info: AI Msc student, Cambdrige
+  email: yanndubois96@gmail.com 
+
+- name: Aron Hammond
+  photo: AHammond.jpeg
+  info: AI Msc student, UvA
+  email: hammond756@live.nl 
+
+- name: Bence Keresztury
+  photo: BKeresztury.jpeg 
+  info: AI Msc student, UvA
+  email: kbence16@gmail.com 
+
+- name: Oscar Ligthart
+  photo: OLigthart.jpeg
+  info: AI Msc student, UvA
+  email: oscarligthart@gmail.com 
+
+- name: Michiel van der Meer
+  photo: MvdMeer.jpeg
+  info: AI Msc student, UvA
+  email: michiel.vandermeer@student.uva.nl
+
+- name: Mathijs Mul
+  photo: MMul.jpeg
+  info: AI Msc student, UvA
+  email: mathijsmul@gmail.com 
+
+- name: David Rau
+  photo: DRau.jpeg
+  info: AI Msc student, UvA
+  email: david.rau@student.uva.nl 
+
+- name: Diana Rodriguez Luna 
+  photo: DLuna.jpeg
+  info: AI Msc student, UvA
+  email: diana.rodrigzluna@gmail.com 
+
+- name: Bogdan Teleaga
+  photo: BTeleaga.jpeg
+  info: AI Msc student, UvA
+  email: bogdan.teleaga00@gmail.com
+
+- name: Dennis Ulmer
+  photo: DUlmer.jpeg
+  info: AI Msc student, UvA
+  email: dennis.ulmer@student.uva.nl 
+
+- name: Thomas Unger
+  photo:
+  info: AI Msc Student, UvA
+  email: thomas.unger@student.uva.nl
+
