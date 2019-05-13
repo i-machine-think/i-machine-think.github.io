@@ -22,12 +22,18 @@ We are a research group at the University of Amsterdam
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DennisCLIN.jpeg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DennisCLIN.jpeg" height="150" alt="Slide 1" />
             <br>
             <i>Dennis Ulmer presenting his work about incremental encoding at <a href="http://www.let.rug.nl/clin29/">CLIN 2019</a></i>
+            <p><br></p>
         </div>
         <div class="item">
-            <p style="text-align:center;"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider/black_box.png" width="140" alt="Slide 2" /></p>
+            <p style="text-align:center;"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Dieuwke_ENS.jpeg" height="150" alt="Slide 2" /></p>
+            <br>
+            <i> Dieuwke Hupkes giving a presentation about compositionality at ENS, Paris</i>
+        </div>
+        <div class="item">
+            <p style="text-align:center;"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider/black_box.png" height="150" alt="Slide 3" /></p>
             <br>
             <i> Check out our diagnostics library at <a href="https://github.com/i-machine-think/diagnnose"> https://github.com/i-machine-think/diagnnose!</a></i>
         </div>
