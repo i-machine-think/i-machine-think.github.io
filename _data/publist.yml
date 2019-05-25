@@ -1,14 +1,23 @@
-- title: "Learning compositionally through attentive guidance"
-  image: dummy.png
-  description: "While neural network models have been successfully applied to domains that require substantial generalisation skills, recent studies have implied that they struggle when solving the task they are trained on requires inferring its underlying compositional structure. 
-  In this paper, we introduce Attentive Guidance, a mechanism to direct a sequence to sequence model equipped with attention to find more compositional solutions. "
-  authors: Dieuwke Hupkes, Anand Singh, Kris Korrel, German Kruszewski and Elia Bruni
-  link:
-      url: https://arxiv.org/abs/1805.09657
-      display:  link to paper
-  highlight: 1
+- title: "Transcoding compositionally: using attention to find more generalizable solutions."
+  authors: Kris Korrel, Dieuwke Hupkes, Verna Dankers and Eia Bruni
   year: 2019
-  venue: "Proceedings of the 20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2019)."
+  image: dummy.png
+  description: "" 
+  venue: "To appear at the ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP"
+  link:
+    url: 
+    display: 
+  news2:
+
+- title: "On the Realization of Compositionality in Neural Networks."
+  authors: Joris Baan, Jana Leible, Mitja Nikolaus, David Rau, Dennis Ulmer, Tim Baumgärtner, Dieuwke Hupkes and Elia Bruni
+  image: dummy.png
+  description: "" 
+  venue: "To appear at the ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP"
+  year: 2019
+  link:
+    url: 
+    display: 
   news2:
 
 - title: "The Fast and the Flexible: training neural networks to learn to follow instructions from small data"
@@ -25,24 +34,28 @@
   highlight: 1
   news2:
 
-- title: "On the Realization of Compositionality in Neural Networks."
-  authors: Joris Baan, Jana Leible, Mitja Nikolaus, David Rau, Dennis Ulmer, Tim Baumgärtner, Dieuwke Hupkes and Elia Bruni
+- title: "Learning compositionally through attentive guidance"
   image: dummy.png
-  description: "" 
-  venue: "To appear at the ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP"
-  year: 2019
+  description: "While neural network models have been successfully applied to domains that require substantial generalisation skills, recent studies have implied that they struggle when solving the task they are trained on requires inferring its underlying compositional structure. 
+  In this paper, we introduce Attentive Guidance, a mechanism to direct a sequence to sequence model equipped with attention to find more compositional solutions. "
+  authors: Dieuwke Hupkes, Anand Singh, Kris Korrel, German Kruszewski and Elia Bruni
   link:
-    url: 
-    display: 
+      url: https://arxiv.org/abs/1805.09657
+      display:  link to paper
+  highlight: 1
+  year: 2019
+  venue: "Proceedings of the 20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2019)."
   news2:
 
-- title: "Transcoding compositionally: using attention to find more generalizable solutions."
-  authors: Kris Korrel, Dieuwke Hupkes, Verna Dankers and Eia Bruni
-  year: 2019
+- title: "Do language models understand anything? On the ability of LSTMs to understand negative polarity items"
   image: dummy.png
-  description: "" 
-  venue: "To appear at the ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP"
+  description: ""
+  authors: Jaap Jumelet and Dieuwke Hupkes
   link:
-    url: 
-    display: 
+      url: http://aclweb.org/anthology/W18-5424
+      display:  link to paper
+  year: 2019
+  venue: "Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP"
+  pages: ", pages 222-231"
   news2:
+
