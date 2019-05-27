@@ -32,7 +32,7 @@
   news2:
 
 - title: "The Fast and the Flexible: training neural networks to learn to follow instructions from small data"
-  image: dummy.png
+  image: SHRDLURN.png
   description: "Learning to follow human instructions is a long-pursued goal in artificial intelligence. 
   The task becomes particularly challenging if no prior knowledge of the employed language is assumed. 
  In this paper, we seek to establish whether the right inductive biases can be acquired automatically by a neural network system through a two phase training procedure: A (slow) offline learning stage where the network learns about the general structure of the task and a (fast) online adaptation phase where the network learns the language of a new given speaker."
@@ -46,12 +46,12 @@
   news2:
 
 - title: "Learning compositionally through attentive guidance"
-  image: dummy.png
+  image: AG.png
   description: "While neural network models have been successfully applied to domains that require substantial generalisation skills, recent studies have implied that they struggle when solving the task they are trained on requires inferring its underlying compositional structure. 
   In this paper, we introduce Attentive Guidance, a mechanism to direct a sequence to sequence model equipped with attention to find more compositional solutions. "
   authors: Dieuwke Hupkes, Anand Singh, Kris Korrel, German Kruszewski and Elia Bruni
   link:
-      url: https://arxiv.org/abs/1805.09657
+      url: https://arxiv.org/pdf/1805.09657.pdf
       display:  paper
   highlight: 1
   year: 2019
