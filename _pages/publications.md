@@ -59,4 +59,7 @@ permalink: /publications/
   <button onclick='window.open("{{ publi.link.url }}", "_blank")' style="float: right;"> {{ publi.link.display }} </button>
   <br> {{ publi.authors }} &nbsp; &#8226; &nbsp; <i> {{ publi.venue }} </i> <br />
 
+
 {% endfor %}
+
+<br><br>
