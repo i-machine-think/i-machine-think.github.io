@@ -54,11 +54,9 @@ permalink: /publications/
 
 ## Full List
 
-<ul>
 {% for publi in site.data.publist %}
 
-  <li> {{ publi.authors }}  ({{ publi.year }}) {{ publi.title }}. In <em> {{ publi.venue }} </em>{{ publi.pages }} <br /> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-  <br/><br/> </li>
+  <b> <font size="+1"> {{publi.title }} </font></b> <br> {{ publi.authors }} &nbsp; &#8226; &nbsp; <i> {{ publi.venue }} </i> <br /> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <br/>
 
 {% endfor %}
-<ul>

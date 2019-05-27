@@ -3,7 +3,7 @@
   year: 2019
   image: dummy.png
   description: "" 
-  venue: "To appear at the ACL Workshop Repl4NLP"
+  venue: "Repl4NLP,&nbsp; ACL 2019"
   link:
     url: 
     display: 
@@ -14,7 +14,7 @@
   year: 2019
   image: dummy.png
   description: "" 
-  venue: "To appear at the ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP"
+  venue: "BlackboxNLP,&nbsp; ACL 2019"
   link:
     url: 
     display: 
@@ -24,7 +24,7 @@
   authors: Joris Baan, Jana Leible, Mitja Nikolaus, David Rau, Dennis Ulmer, Tim Baumgärtner, Dieuwke Hupkes and Elia Bruni
   image: dummy.png
   description: "" 
-  venue: "To appear at the ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP"
+  venue: "BlackboxNLP,&nbsp; ACL 2019"
   year: 2019
   link:
     url: 
@@ -37,7 +37,7 @@
   The task becomes particularly challenging if no prior knowledge of the employed language is assumed. 
  In this paper, we seek to establish whether the right inductive biases can be acquired automatically by a neural network system through a two phase training procedure: A (slow) offline learning stage where the network learns about the general structure of the task and a (fast) online adaptation phase where the network learns the language of a new given speaker."
   authors: Rezka Leonandya, Elia Bruni, Dieuwke Hupkes and German Kruszewski
-  venue: Proceedings of the *13th International Conference on Computational Semantics (IWCS 2019)
+  venue: IWCS 2019
   year: 2019
   link:
     url: https://arxiv.org/pdf/1809.06194.pdf
@@ -52,10 +52,10 @@
   authors: Dieuwke Hupkes, Anand Singh, Kris Korrel, German Kruszewski and Elia Bruni
   link:
       url: https://arxiv.org/abs/1805.09657
-      display:  link to paper
+      display:  paper
   highlight: 1
   year: 2019
-  venue: "Proceedings of the 20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2019)."
+  venue: "CICLing 2019"
   news2:
 
 - title: "Do language models understand anything? On the ability of LSTMs to understand negative polarity items"
@@ -64,9 +64,9 @@
   authors: Jaap Jumelet and Dieuwke Hupkes
   link:
       url: http://aclweb.org/anthology/W18-5424
-      display:  link to paper
+      display:  paper
   year: 2019
-  venue: "Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP"
+  venue: "BlackboxNLP,&nbsp; EMNLP 2018"
   pages: ", pages 222-231"
   news2:
 
