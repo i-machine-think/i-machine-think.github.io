@@ -1,4 +1,15 @@
-- title: "Transcoding compositionally: using attention to find more generalizable solutions."
+- title: "Assessing incrementality in sequence-to-sequence models"
+  authors: Dennis Ulmer, Dieuwke Hupkes and Eia Bruni
+  year: 2019
+  image: dummy.png
+  description: "" 
+  venue: "To appear at the ACL Workshop Repl4NLP"
+  link:
+    url: 
+    display: 
+  news2:
+
+- title: "Transcoding compositionally: using attention to find more generalizable solutions"
   authors: Kris Korrel, Dieuwke Hupkes, Verna Dankers and Eia Bruni
   year: 2019
   image: dummy.png
@@ -9,7 +20,7 @@
     display: 
   news2:
 
-- title: "On the Realization of Compositionality in Neural Networks."
+- title: "On the Realization of Compositionality in Neural Networks"
   authors: Joris Baan, Jana Leible, Mitja Nikolaus, David Rau, Dennis Ulmer, Tim Baumgärtner, Dieuwke Hupkes and Elia Bruni
   image: dummy.png
   description: "" 
