@@ -51,12 +51,12 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
 ## Full List
 
 {% for publi in site.data.publist %}
 
-  <b> <font size="+1"> {{publi.title }} </font></b> <br> {{ publi.authors }} &nbsp; &#8226; &nbsp; <i> {{ publi.venue }} </i> <br /> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-  <br/>
+  <b> <font size="+1"> {{publi.title }} </font></b> 
+  <button onclick='window.open("{{ publi.link.url }}", "_blank")' style="float: right;"> {{ publi.link.display }} </button>
+  <br> {{ publi.authors }} &nbsp; &#8226; &nbsp; <i> {{ publi.venue }} </i> <br />
 
 {% endfor %}
