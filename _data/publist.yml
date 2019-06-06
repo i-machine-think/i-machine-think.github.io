@@ -16,8 +16,8 @@
   description: "" 
   venue: "BlackboxNLP,&nbsp; ACL 2019"
   link:
-    url: 
-    display: preprint coming soon
+    url: https://arxiv.org/abs/1906.01234 
+    display: paper
   news2:
 
 - title: "On the Realization of Compositionality in Neural Networks"
@@ -27,8 +27,8 @@
   venue: "BlackboxNLP,&nbsp; ACL 2019"
   year: 2019
   link:
-    url: 
-    display: preprint coming soon
+    url: https://arxiv.org/abs/1906.01634
+    display: paper
   news2:
 
 - title: "The Fast and the Flexible: training neural networks to learn to follow instructions from small data"
