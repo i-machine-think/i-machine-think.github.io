@@ -5,8 +5,8 @@
   description: "" 
   venue: "Repl4NLP,&nbsp; ACL 2019"
   link:
-    url: 
-    display: preprint coming soon
+    url: https://arxiv.org/pdf/1906.03293.pdf
+    display: paper 
   news2:
 
 - title: "Transcoding compositionally: using attention to find more generalizable solutions"
@@ -16,7 +16,7 @@
   description: "" 
   venue: "BlackboxNLP,&nbsp; ACL 2019"
   link:
-    url: https://arxiv.org/abs/1906.01234 
+    url: https://arxiv.org/abs/1906.01234.pdf
     display: paper
   news2:
 
@@ -27,7 +27,7 @@
   venue: "BlackboxNLP,&nbsp; ACL 2019"
   year: 2019
   link:
-    url: https://arxiv.org/abs/1906.01634
+    url: https://arxiv.org/abs/1906.01634.pdf
     display: paper
   news2:
 
