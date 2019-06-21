@@ -1,8 +1,15 @@
 - title: "The typology of emergent languages"
-  authors: Edoardo Ponti, Dieuwke Hupkes, Diana Rodriguez and Elia Bruni
+  authors: Edoardo Ponti, Dieuwke Hupkes*, Diana Rodriguez and Elia Bruni
   date: June 18
   year: 2019
   description: "" 
   slides: IELC18-06-2019.pdf
   venue: "Interaction and the evolution of linguistic complexity"
 
+- title: "An incremental encoder for sequence-to-sequence modelling"
+  authors: Dennis Ulmer*, Dieuwke Hupkes and Elia Bruni
+  date: January 31
+  year: 2019
+  description: "" 
+  slides: CLIN_29_Incremental_Encoder.pdf
+  venue: "Computational Linguistics in the Netherlands (CLIN29)"
