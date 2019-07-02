@@ -9,6 +9,15 @@ permalink: /allnews.html
 # News
 
 {% for article in site.data.news %}
-<p>{{ article.date }} <br>
-<em>{{ article.headline }}</em></p>
+<p><b>{{ article.date }}</b><br>
+{% if article.content %}
+{{ article.content }}
+{% else %}
+{{ article.headline }}
+{% endif %}
+<br>
+{% if article.image %} <img src="{{ site.url }}{{ site.baseurl }}/images/news/{{ article.image }}" width='70%' style='float: centre'/> {% endif %}
+<br>
+</p>
+
 {% endfor %}

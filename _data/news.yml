@@ -1,8 +1,21 @@
+- date: "July 1, 2019"
+  headline: "Diana Rodriguez Luna presents her master thesis! Congratulations Diana for finishing your thesis :)."
+  content: "Diana Rodriguez Luna presents her master thesis on language emergence in multi-agent referential games! Congratulations Diana for finishing your thesis :)."
+  image: "diana_presentation.jpeg"
+
+- date: "June 27, 2019"
+  headline: "Poster presentations of June projects today!"
+  content: "Poster presentations of June projects today! In total, 5 groups of students presented a poster."
+  image: "poster_presentations.jpeg"
+
 - date: "June 18, 2019"
-  headline: "Dieuwke Hupkes presents joint work with Elia Bruni, Edoardo Ponti and Diana Rodriguez today in Edinburgh, slides will follow soon!"
+  headline: "Dieuwke Hupkes presents joint work with Elia Bruni, Edoardo Ponti and Diana Rodriguez in Edinburgh!"
+  content: "Dieuwke Hupkes presents joint work with Elia Bruni, Edoardo Ponti and Diana Rodriguez at the <a href='http://www.lel.ed.ac.uk/cle/index.php/ielc2019/'>Interaction and the Evolution of Linguistic Complexity</a>. Check out this nice <a href='https://twitter.com/DingemanseMark/status/1140923442000289792'>summary on twitter</a> by Mark Dingemanse."
+  image: "Dieuwke_Edinburgh.jpeg"
 
 - date: "June 11, 2019"
   headline: "A preprint of our work at Repl4NLP about incremental encoding is now online: <a href='https://arxiv.org/pdf/1906.03293.pdf'>paper</a>."
+  content: "A preprint of our work about incremental encoding is now online. You can find it <a href='https://arxiv.org/pdf/1906.03293.pdf'>here</a>. Dennis Ulmer will present the work as a poster at the <a href='https://sites.google.com/view/repl4nlp2019'>Repl4NLP workshop</a> on August 2."
 
 - date: "June 6, 2019"
   headline: 'Preprints of our two BlackboxNLP papers are online: check them out <a href="https://arxiv.org/abs/1906.01234.pdf">here</a> and <a href="https://arxiv.org/abs/1906.01634.pdf">here</a>.'
