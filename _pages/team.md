@@ -143,7 +143,8 @@ Jump to [project Leaders](#project-leaders), [master and bachelor students](#mas
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  {{member.role}}<br><i>{{ member.duration }} <br> Current role: {{ member.info }} </i>
+  {{member.role}}<br><i>{{ member.duration }} <br>
+  {% if member.info %} Current role: {{ member.info }} </i> {% endif %}
   <ul style="overflow: hidden">
 
   </ul>
