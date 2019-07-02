@@ -1,7 +1,7 @@
-- name: Tim Baumgaertner
-  photo: TBaumgaertner.jpeg 
-  info: AI Msc student, UvA
-  email: baumgaertner.t@gmail.com 
+ - name: Tim Baumgaertner
+   photo: TBaumgaertner.jpeg 
+   info: AI Msc student, UvA
+   email: baumgaertner.t@gmail.com 
 
  - name: Anand Kumar Singh
    photo: ASingh.jpeg
