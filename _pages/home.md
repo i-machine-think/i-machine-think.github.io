@@ -19,23 +19,28 @@ We are a research group at the University of Amsterdam
         <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
+    {% assign slide_number = 0 %}
+
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
+    {% for item in site.data.slider %}
+        {% if item.first %} 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DennisCLIN.jpeg" height="140" alt="Slide 1" />
-            <br>
-            <i>Dennis Ulmer presenting his work about incremental encoding at <a href="http://www.let.rug.nl/clin29/">CLIN 2019</a></i>
-        </div>
+        {% else %} 
         <div class="item">
-            <p style="text-align:center;"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Dieuwke_ENS.jpeg" height="140" alt="Slide 2" /></p>
-            <br>
-            <i> Dieuwke Hupkes giving a presentation about compositionality at ENS, Paris</i>
+        {% endif %}
+
+        <img src="{{ site.url }}{{ site.baseurl }}/images/news/{{ item.image }}" height="40%" alt="Slide {{ slide_number }}" />
+        <br>
+        <p style="text-align:center;"> <i>{{ item.text }} </i> </p>
+        <br>
+        <br>
+
         </div>
-        <div class="item">
-            <p style="text-align:center;"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider/black_box.png" height="140" alt="Slide 3" /></p>
-            <br>
-            <i> Check out our diagnostics library at <a href="https://github.com/i-machine-think/diagnnose"> https://github.com/i-machine-think/diagnnose!</a></i>
-        </div>
+
+        {% assign slide_number = slide_number | plus: 1 %}
+
+    {% endfor %}
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
