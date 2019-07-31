@@ -1,0 +1,16 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+#
+- name: Lucas Weber
+  photo: lucas_weber.jpeg
+  info: PhD student at DTCL, UPF (starting in September 2019)
+  email: lucasweber0@yahoo.com
+
+
