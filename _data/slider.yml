@@ -1,6 +1,10 @@
+- text: Mathijs defending his master thesis work
+  image: mathijs_presentation.jpeg
+  first: true
+
 - text: Diana defending her master thesis work
   image: diana_presentation.jpeg
-  first: true
+  first:
 
 - text: Poster presentations of master students
   image: poster_presentations.jpeg
