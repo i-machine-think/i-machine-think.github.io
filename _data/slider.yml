@@ -1,21 +1,21 @@
+- text: Dennis presenting at BlackboxNLP2019
+  image: DennisBlackboxNLP.jpg
+  first: true
+
+- text: Kris explaining his work to many interested at BlackboxNLP2019
+  image: KrisBlackboxNLP.jpg
+  first:
+
 - text: Mathijs defending his master thesis work
   image: mathijs_presentation.jpg
-  first: true
+  first: 
 
 - text: Diana defending her master thesis work
   image: diana_presentation.jpeg
   first:
 
-- text: Poster presentations of master students
-  image: poster_presentations.jpeg
-  first: 
-
 - text: Dieuwke Hupkes presenting on emerging languages at <a href="http://www.lel.ed.ac.uk/cle/index.php/ielc2019/">IECL</a> in Edinburgh
   image: Dieuwke_Edinburgh.jpeg
-  first: 
-
-- text: Poster presentations of master students
-  image: poster_presentations2.jpeg
   first: 
 
 - text: Check out our diagnostics library at <a href="https://github.com/i-machine-think/diagnnose"> https://github.com/i-machine-think/diagnnose!</a>
