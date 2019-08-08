@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the University of Amsterdam
+We are a research group at the University of Amsterdam.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -51,3 +51,9 @@ We are a research group at the University of Amsterdam
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+More info will follow soon!
+Meanwhile, check out the diagnostics library are creating to make interpretability easier: <a href="https://github.com/i-machine-think/diagnnose"> https://github.com/i-machine-think/diagnnose</a>!
+
+We are working
+

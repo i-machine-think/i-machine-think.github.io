@@ -1,5 +1,10 @@
-
-
+- date: "August 2, 2019"
+  headline: "Fruitful ACL workshops with two posters, one presentation and the organisation of the BlackboxNLP workshop!"
+  content: "Fruitful ACL workshops with two posters, one presentation and the organisation of the BlackboxNLP workshop! Dennis presented our paper on <a href='https://arxiv.org/abs/1906.01634'>the realisation of compositionality in neurual networks</a> for 400+ registrants at BlackboxNLP (picture below).
+  Kris explained <a href='https://arxiv.org/abs/1906.01234'>his work about compositionality and attention</a> with a poster to many interested at the same workshop.
+  Dieuwke lead a well received panel discussion at BlackboxNLP.
+  The next day, Dennis presented <a href='https://arxiv.org/abs/1906.03293'>his work on incremental encoding</a> with a poster at the Repl4NLP workshop."
+  image: "DennisBlackboxNLP.jpg"
 
 - date: "August 1, 2019"
   headline: "<a href='https://www.youtube.com/embed/JEH2fiyjrJU'>Live from BlackboxNLP</a>, co-organised by Dieuwke and with two of our papers! "
