@@ -66,7 +66,12 @@
 - name: Diana Rodriguez Luna 
   photo: DLuna.jpeg
   info: AI Msc student, UvA
-  email: diana.rodrigzluna@gmail.com 
+  email: diana.rodrigzluna@gmail.com
+
+- name: David Speck
+  photo: SPeck.png
+  info: AI Msc student, UvA
+  email: david.speck@student.uva.nl
 
 - name: Bogdan Teleaga
   photo: BTeleaga.jpeg
