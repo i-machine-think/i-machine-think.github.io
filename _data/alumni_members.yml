@@ -40,8 +40,20 @@
    duration: January - September 2018
    info:  Bussiness Intelligence Expert/Developer at Topicus
 
+- name: David Rau
+  photo: DRau.jpeg
+  role: Independent project
+  duration: June - February 2019
+  info:
+
  - name: Mathijs Mul
    photo: MMul.jpeg
    role: Master thesis
    duration: January - July 2019
    info:
+
+- name: Diana Rodriguez Luna
+  photo: DLuna.jpeg
+  role: Master thesis
+  duration: January - July 2019
+  info:
