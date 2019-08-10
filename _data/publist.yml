@@ -1,5 +1,5 @@
 - title: "Assessing incrementality in sequence-to-sequence models"
-  authors: Dennis Ulmer, Dieuwke Hupkes and Eia Bruni
+  authors: Dennis Ulmer, Dieuwke Hupkes and Elia Bruni
   year: 2019
   image: dummy.png
   description: "" 
@@ -10,7 +10,7 @@
   news2:
 
 - title: "Transcoding compositionally: using attention to find more generalizable solutions"
-  authors: Kris Korrel, Dieuwke Hupkes, Verna Dankers and Eia Bruni
+  authors: Kris Korrel, Dieuwke Hupkes, Verna Dankers and Elia Bruni
   year: 2019
   image: dummy.png
   description: "" 
