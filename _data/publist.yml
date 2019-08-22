@@ -1,3 +1,15 @@
+
+- title: "Mastering emergent language: learning to guide in simulated navigation"
+  authors: Mathijs Mul, Diane Bouchacourt and Elia Bruni
+  year: 2019
+  image: dummy.png
+  description: ""
+  venue: "arXiv preprint"
+  link:
+    url: https://arxiv.org/abs/1908.05135
+    display: paper
+  news2:
+
 - title: "Assessing incrementality in sequence-to-sequence models"
   authors: Dennis Ulmer, Dieuwke Hupkes and Elia Bruni
   year: 2019
