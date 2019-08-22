@@ -2,22 +2,22 @@
   authors: Mathijs Mul, Diane Bouchacourt and Elia Bruni
   year: 2019
   image: dummy.png
-  description: ""
-  venue: "arXiv preprint"
+  description: "" 
+  venue: "Repl4NLP,&nbsp; ACL 2019"
   link:
     url: https://arxiv.org/abs/1908.05135
-    display: paper
+    display: paper 
   news2:
 
 - title: "Assessing incrementality in sequence-to-sequence models"
   authors: Dennis Ulmer, Dieuwke Hupkes and Elia Bruni
   year: 2019
   image: dummy.png
-  description: "" 
+  description: ""
   venue: "Repl4NLP,&nbsp; ACL 2019"
   link:
     url: https://arxiv.org/pdf/1906.03293.pdf
-    display: paper 
+    display: paper
   news2:
 
 - title: "Transcoding compositionally: using attention to find more generalizable solutions"
