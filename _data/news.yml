@@ -1,3 +1,12 @@
+- date: "August 23, 2019"
+  headline: "A preprint of our work on compositionality and neural networks is online! Interested in what it may mean when people say a neural network is or is not compositional? Check the <a href='https://arxiv.org/pdf/1908.08351.pdf'>paper!</a>."
+  image: screenshot_manifesto.png
+  content: "A <a href='https://arxiv.org/pdf/1908.08351.pdf'>preprint</a> of our work on compositionality and neural networks is online! 
+  The compositionality of neural networks has been a hot topic recently, on which no consensus exists.
+  In this paper, we argue that this in part stems from the fact that there is little consensus on what it means for a network to be compositional, and we present a set of five tests that provide a bridge between the linguistic and philosophical knowledge about compositionality and deep neural networks.
+  We use our tests to evaluate a recurrent model, a convolution-based model and a Transformer.
+  Curious what we test for? And what we find? Check the <a href='https://arxiv.org/pdf/1908.08351.pdf'>paper</a>!"
+
 - date: "August 2, 2019"
   headline: "Fruitful ACL workshops with two posters, one presentation and the organisation of the BlackboxNLP workshop!"
   content: "Fruitful ACL workshops with two posters, one presentation and the organisation of the BlackboxNLP workshop! Dennis presented our paper on <a href='https://arxiv.org/abs/1906.01634'>the realisation of compositionality in neurual networks</a> for 400+ registrants at BlackboxNLP (picture below).
