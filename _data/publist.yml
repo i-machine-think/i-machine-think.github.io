@@ -12,6 +12,12 @@
     display: preprint 
   news2:
 
+- title: "Mastering emergent language: learning to guide in simulated navigation"
+  authors: "Mathijs Mul, Diane Bouchacourt and Elia Bruni"
+  link:
+      url: https://arxiv.org/abs/1908.05135
+      display: preprint
+
 - title: "Assessing incrementality in sequence-to-sequence models"
   authors: Dennis Ulmer, Dieuwke Hupkes and Eia Bruni
   year: 2019
@@ -19,12 +25,23 @@
   description: "" 
   venue: "Repl4NLP,&nbsp; ACL 2019"
   link:
-    url: https://arxiv.org/pdf/1906.03293.pdf
+    url: https://arxiv.org/abs/1908.05135
     display: paper 
   news2:
 
+- title: "Assessing incrementality in sequence-to-sequence models"
+  authors: Dennis Ulmer, Dieuwke Hupkes and Elia Bruni
+  year: 2019
+  image: dummy.png
+  description: ""
+  venue: "Repl4NLP,&nbsp; ACL 2019"
+  link:
+    url: https://arxiv.org/pdf/1906.03293.pdf
+    display: paper
+  news2:
+
 - title: "Transcoding compositionally: using attention to find more generalizable solutions"
-  authors: Kris Korrel, Dieuwke Hupkes, Verna Dankers and Eia Bruni
+  authors: Kris Korrel, Dieuwke Hupkes, Verna Dankers and Elia Bruni
   year: 2019
   image: dummy.png
   description: "" 

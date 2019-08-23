@@ -7,9 +7,12 @@
   We use our tests to evaluate a recurrent model, a convolution-based model and a Transformer.
   Curious what we test for? And what we find? Check the <a href='https://arxiv.org/pdf/1908.08351.pdf'>paper</a>!"
 
+- date: "August 20, 2019"
+  headline: "Happy to see our paper on compositional transcoding mentioned in <a href='https://supernlp.github.io/2019/08/16/acl-2019' target='_blank'>this discussion</a> of highlights and trends at ACL 2019!"
+
 - date: "August 2, 2019"
   headline: "Fruitful ACL workshops with two posters, one presentation and the organisation of the BlackboxNLP workshop!"
-  content: "Fruitful ACL workshops with two posters, one presentation and the organisation of the BlackboxNLP workshop! Dennis presented our paper on <a href='https://arxiv.org/abs/1906.01634'>the realisation of compositionality in neurual networks</a> for 400+ registrants at BlackboxNLP (picture below).
+  content: "Fruitful ACL workshops with two posters, one presentation and the organisation of the BlackboxNLP workshop! Dennis presented our paper on <a href='https://arxiv.org/abs/1906.01634' target='_blank'>the realisation of compositionality in neurual networks</a> for 400+ registrants at BlackboxNLP (picture below).
   Kris explained <a href='https://arxiv.org/abs/1906.01234'>his work about compositionality and attention</a> with a poster to many interested at the same workshop.
   Dieuwke lead a well received panel discussion at BlackboxNLP.
   The next day, Dennis presented <a href='https://arxiv.org/abs/1906.03293'>his work on incremental encoding</a> with a poster at the Repl4NLP workshop."

@@ -18,11 +18,6 @@
   info: AI Msc student, UvA
   email: verna.dankers@student.uva.nl
 
-- name: Yann Dubois
-  photo: YDubois.jpeg
-  info: AI Msc student, Cambdrige
-  email: yanndubois96@gmail.com 
-
 - name: Aron Hammond
   photo: AHammond.jpeg
   info: AI Msc student, UvA
@@ -36,7 +31,17 @@
 - name: Bence Keresztury
   photo: BKeresztury.jpeg 
   info: AI Msc student, UvA
-  email: kbence16@gmail.com 
+  email: kbence16@gmail.com
+
+- name: Benjamin Kolb
+  photo: BKolb.png
+  info: AI Msc student, UvA
+  email: benjamin.kolb@student.uva.nl
+
+- name: Leon Lang
+  photo: LLang.jpg
+  info: AI Msc student, UvA
+  email: leon.lang@student.uva.nl
 
 - name: Oscar Ligthart
   photo: OLigthart.jpeg
@@ -48,15 +53,10 @@
   info: AI Msc student, UvA
   email: michiel.vandermeer@student.uva.nl
 
-- name: David Rau
-  photo: DRau.jpeg
+- name: David Speck
+  photo: DSpeck.png
   info: AI Msc student, UvA
-  email: david.rau@student.uva.nl 
-
-- name: Diana Rodriguez Luna 
-  photo: DLuna.jpeg
-  info: AI Msc student, UvA
-  email: diana.rodrigzluna@gmail.com 
+  email: david.speck@student.uva.nl
 
 - name: Bogdan Teleaga
   photo: BTeleaga.jpeg
