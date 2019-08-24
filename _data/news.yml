@@ -1,4 +1,10 @@
 - date: "August 23, 2019"
+  headline: "Three successfull thesis defences today! Congratulations to Bence, Gautier and Dennis for passing their defences with flying colors!"
+  image: bence_defence.jpeg
+  image2: dennis_defence.jpeg
+  image3: gautier_defence.jpeg
+
+- date: "August 23, 2019"
   headline: "A preprint of our work on compositionality and neural networks is online! Interested in what it may mean when people say a neural network is or is not compositional? Check the <a href='https://arxiv.org/pdf/1908.08351.pdf'>paper!</a>."
   image: screenshot_manifesto.png
   content: "A <a href='https://arxiv.org/pdf/1908.08351.pdf'>preprint</a> of our work on compositionality and neural networks is online! 
@@ -41,6 +47,7 @@
   headline: "Poster presentations of June projects today!"
   content: "Poster presentations of June projects today! In total, 5 groups of students presented a poster."
   image: "poster_presentations.jpeg"
+  image: "poster_presentations2.jpeg"
 
 - date: "June 18, 2019"
   headline: "Dieuwke Hupkes presents joint work with Elia Bruni, Edoardo Ponti and Diana Rodriguez in Edinburgh!"
