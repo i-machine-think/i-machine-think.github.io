@@ -55,5 +55,3 @@ We are a research group at the University of Amsterdam.
 More info will follow soon!
 Meanwhile, check out the diagnostics library are creating to make interpretability easier: <a href="https://github.com/i-machine-think/diagnnose"> https://github.com/i-machine-think/diagnnose</a>!
 
-We are working
-
