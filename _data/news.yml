@@ -15,6 +15,8 @@
 
 - date: "August 20, 2019"
   headline: "Happy to see our paper on compositional transcoding mentioned in <a href='https://supernlp.github.io/2019/08/16/acl-2019' target='_blank'>this discussion</a> of highlights and trends at ACL 2019!"
+  image:
+  image2:
 
 - date: "August 2, 2019"
   headline: "Fruitful ACL workshops with two posters, one presentation and the organisation of the BlackboxNLP workshop!"
@@ -47,7 +49,7 @@
   headline: "Poster presentations of June projects today!"
   content: "Poster presentations of June projects today! In total, 5 groups of students presented a poster."
   image: "poster_presentations.jpeg"
-  image: "poster_presentations2.jpeg"
+  image2: "poster_presentations2.jpeg"
 
 - date: "June 18, 2019"
   headline: "Dieuwke Hupkes presents joint work with Elia Bruni, Edoardo Ponti and Diana Rodriguez in Edinburgh!"

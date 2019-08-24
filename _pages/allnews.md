@@ -16,7 +16,26 @@ permalink: /allnews.html
 {{ article.headline }}
 {% endif %}
 <br>
-{% if article.image %} <img src="{{ site.url }}{{ site.baseurl }}/images/news/{{ article.image }}" width='70%' style='float: centre'/> {% endif %}
+{% if article.image3 %} 
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/news/{{ article.image }}" width='30%'/> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/news/{{ article.image2 }}" width='30%'/> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/news/{{ article.image3 }}" width='30%'/> 
+</center>
+
+{% elsif article.image2 %} 
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/news/{{ article.image }}" width='45%'/> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/news/{{ article.image2 }}" width='45%'/> 
+</center>
+
+{% elsif article.image %} 
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/news/{{ article.image }}" width='60%'/> 
+</center>
+
+{% endif %}
+
 <br>
 </p>
 
