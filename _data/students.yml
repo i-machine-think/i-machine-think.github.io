@@ -8,20 +8,20 @@
 #  education3:
 #  education4:
 #
-- name: Gautier Dagan
-  photo: GDagan.jpeg
+- name: Oskar van de Wal
+  photo: OvdWal.jpeg
   info: AI Msc student, UvA
-  email: gautier.dagan@student.uva.nl
+  email: oskar.vanderwal@gmail.com
+
+- name: Silvan de Boer
+  photo: Sdeboer.jpeg
+  info: AI Msc student, UvA
+  email: silvandeboer@gmail.com
 
 - name: Verna Dankers
   photo: VDankers.jpeg
   info: AI Msc student, UvA
   email: verna.dankers@student.uva.nl
-
-- name: Aron Hammond
-  photo: AHammond.jpeg
-  info: AI Msc student, UvA
-  email: a.o.m.hammond@gmail.com
 
 - name: Jaap Jumelet
   photo: JJumelet.jpeg
@@ -48,28 +48,7 @@
   info: AI Msc student, UvA
   email: oscarligthart@gmail.com 
 
-- name: Michiel van der Meer
-  photo: MvdMeer.jpeg
-  info: AI Msc student, UvA
-  email: michiel.vandermeer@student.uva.nl
-
 - name: David Speck
   photo: DSpeck.png
   info: AI Msc student, UvA
   email: david.speck@student.uva.nl
-
-- name: Bogdan Teleaga
-  photo: BTeleaga.jpeg
-  info: AI Msc student, UvA
-  email: bogdan.teleaga00@gmail.com
-
-- name: Dennis Ulmer
-  photo: DUlmer.jpeg
-  info: AI Msc student, UvA
-  email: dennis.ulmer@student.uva.nl 
-
-- name: Thomas Unger
-  photo: TUnger.jpg
-  info: AI Msc Student, UvA
-  email: thomas.unger@student.uva.nl
-
