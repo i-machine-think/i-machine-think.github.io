@@ -1,17 +1,55 @@
+- date: "October 30, 2019"
+  headline: "Michiel defended his master thesis! Congratulations to him with the fine result!"
+  image: michiel_defence.jpeg
+
+- date: "October 17, 2019"
+  headline: "Today was Diana's graduation event! Corgrats Diana with your diploma :)."
+  image: diana_graduation.jpg
+
+- date: "September 3, 2019"
+  headline: "Elia and Dieuwke speak at a public outreach event at SPUI25 about Deep Fake, watch it back <a href='https://www.facebook.com/spui25/videos/742682212852885/?eid=ARAlFB4Gu341rTppfQG2fecjN40Q9bjxlXyrYfb302mhoibOvTg6dTAz98XQPgpGcSNd-WP4b5MpAl1I' target='_blank'>here</a>!"
+  image: elia_SPUI25.jpg
+  image2: dieuwke_SPUI25.jpg
+
+- date: "August 28, 2019"
+  headline: "Congratulations to Thomas for defending his master thesis very clearly and convincingly!"
+  image: thomas_defence.jpeg
+
+- date: "August 27, 2019"
+  headline: "Another excellent thesis defence! Congratulations Aron with this beautiful work."
+  image: aron_defence.jpg
+
+- date: "August 23, 2019"
+  headline: "Three successful thesis defences today! Congratulations to Bence, Gautier and Dennis for passing their defences with flying colors!"
+  image: bence_defence.jpeg
+  image2: dennis_defence.jpeg
+  image3: gautier_defence.jpeg
+
+- date: "August 23, 2019"
+  headline: "A <a href='https://arxiv.org/pdf/1908.08351.pdf' target='_blank'>preprint</a> of our work on compositionality and neural networks is online! Interested in what it may mean when people say a neural network is or is not compositional? Check this <a href='https://twitter.com/_dieuwke_/status/1164875248283656192?s=20' target='_blank'>twitter thread</a> for the headlines!"
+  image: screenshot_manifesto.png
+  content: "A <a href='https://arxiv.org/pdf/1908.08351.pdf' target='_blank'>preprint</a> of our work on compositionality and neural networks is online! 
+  The compositionality of neural networks has been a hot topic recently, on which no consensus exists.
+  In this paper, we argue that this in part stems from the fact that there is little consensus on what it means for a network to be compositional, and we present a set of five tests that provide a bridge between the linguistic and philosophical knowledge about compositionality and deep neural networks.
+  We use our tests to evaluate a recurrent model, a convolution-based model and a Transformer.
+  Curious what we test for? And what we find? Check the <a href='https://arxiv.org/pdf/1908.08351.pdf' target='_blank'>paper</a>, or have a look at this <a href='https://twitter.com/_dieuwke_/status/1164875248283656192?s=20' target='_blank'>twitter thread</a> for the headlines!"
+
 - date: "August 20, 2019"
   headline: "Happy to see our paper on compositional transcoding mentioned in <a href='https://supernlp.github.io/2019/08/16/acl-2019' target='_blank'>this discussion</a> of highlights and trends at ACL 2019!"
+  image:
+  image2:
 
 - date: "August 2, 2019"
   headline: "Fruitful ACL workshops with two posters, one presentation and the organisation of the BlackboxNLP workshop!"
-  content: "Fruitful ACL workshops with two posters, one presentation and the organisation of the BlackboxNLP workshop! Dennis presented our paper on <a href='https://arxiv.org/abs/1906.01634' target='_blank'>the realisation of compositionality in neurual networks</a> for 400+ registrants at BlackboxNLP (picture below).
-  Kris explained <a href='https://arxiv.org/abs/1906.01234'>his work about compositionality and attention</a> with a poster to many interested at the same workshop.
+  content: "Fruitful ACL workshops with two posters, one presentation and the organisation of the BlackboxNLP workshop! Dennis presented our paper on <a href='https://arxiv.org/abs/1906.01634' target='_blank'>the realisation of compositionality in neural networks</a> for 400+ registrants at BlackboxNLP (picture below).
+  Kris explained <a href='https://arxiv.org/abs/1906.01234' target='_blank'>his work about compositionality and attention</a> with a poster to many interested at the same workshop.
   Dieuwke lead a well received panel discussion at BlackboxNLP.
-  The next day, Dennis presented <a href='https://arxiv.org/abs/1906.03293'>his work on incremental encoding</a> with a poster at the Repl4NLP workshop."
+  The next day, Dennis presented <a href='https://arxiv.org/abs/1906.03293' target='_blank'>his work on incremental encoding</a> with a poster at the Repl4NLP workshop."
   image: "DennisBlackboxNLP.jpg"
 
 - date: "August 1, 2019"
-  headline: "<a href='https://www.youtube.com/embed/JEH2fiyjrJU'>Live from BlackboxNLP</a>, co-organised by Dieuwke and with two of our papers! "
-  content: "<a href='https://www.youtube.com/embed/JEH2fiyjrJU'>Live from BlackboxNLP</a>, co-organised by Dieuwke and with two of our papers!
+  headline: "<a href='https://www.youtube.com/embed/JEH2fiyjrJU' target='_blank'>Live from BlackboxNLP</a>, co-organised by Dieuwke and with two of our papers! "
+  content: "<a href='https://www.youtube.com/embed/JEH2fiyjrJU' target='_blank'>Live from BlackboxNLP</a>, co-organised by Dieuwke and with two of our papers!
   Dennis gives an oral presentation at 12. Kris presents at the poster session."
 
 - date: "July 31, 2019"
@@ -32,18 +70,19 @@
   headline: "Poster presentations of June projects today!"
   content: "Poster presentations of June projects today! In total, 5 groups of students presented a poster."
   image: "poster_presentations.jpeg"
+  image2: "poster_presentations2.jpeg"
 
 - date: "June 18, 2019"
   headline: "Dieuwke Hupkes presents joint work with Elia Bruni, Edoardo Ponti and Diana Rodriguez in Edinburgh!"
-  content: "Dieuwke Hupkes presents joint work with Elia Bruni, Edoardo Ponti and Diana Rodriguez at the <a href='http://www.lel.ed.ac.uk/cle/index.php/ielc2019/'>Interaction and the Evolution of Linguistic Complexity</a>. Check out this nice <a href='https://twitter.com/DingemanseMark/status/1140923442000289792'>summary on twitter</a> by Mark Dingemanse."
+  content: "Dieuwke Hupkes presents joint work with Elia Bruni, Edoardo Ponti and Diana Rodriguez at the <a href='http://www.lel.ed.ac.uk/cle/index.php/ielc2019/' target='_blank'>Interaction and the Evolution of Linguistic Complexity</a>. Check out this nice <a href='https://twitter.com/DingemanseMark/status/1140923442000289792' target='_blank'>summary on twitter</a> by Mark Dingemanse."
   image: "Dieuwke_Edinburgh.jpeg"
 
 - date: "June 11, 2019"
-  headline: "A preprint of our work at Repl4NLP about incremental encoding is now online: <a href='https://arxiv.org/pdf/1906.03293.pdf'>paper</a>."
-  content: "A preprint of our work about incremental encoding is now online. You can find it <a href='https://arxiv.org/pdf/1906.03293.pdf'>here</a>. Dennis Ulmer will present the work as a poster at the <a href='https://sites.google.com/view/repl4nlp2019'>Repl4NLP workshop</a> on August 2."
+  headline: "A preprint of our work at Repl4NLP about incremental encoding is now online: <a href='https://arxiv.org/pdf/1906.03293.pdf' target='_blank'>paper</a>."
+  content: "A preprint of our work about incremental encoding is now online. You can find it <a href='https://arxiv.org/pdf/1906.03293.pdf' target='_blank'>here</a>. Dennis Ulmer will present the work as a poster at the <a href='https://sites.google.com/view/repl4nlp2019' target='_blank'>Repl4NLP workshop</a> on August 2."
 
 - date: "June 6, 2019"
-  headline: 'Preprints of our two BlackboxNLP papers are online: check them out <a href="https://arxiv.org/abs/1906.01234.pdf">here</a> and <a href="https://arxiv.org/abs/1906.01634.pdf">here</a>.'
+  headline: "Preprints of our two BlackboxNLP papers are online: check them out <a href='https://arxiv.org/abs/1906.01234.pdf' target='_blank'>here</a> and <a href='https://arxiv.org/abs/1906.01634.pdf'>here</a>."
 
 - date: "May 27, 2019"
   headline: "Dennis Ulmer's work on incremental encoding got accepted at Repl4NLP! Preprint will follow soon."

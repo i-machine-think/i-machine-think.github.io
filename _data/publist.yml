@@ -1,12 +1,43 @@
+- title: "The compositionality of neural networks: integrating symbolism and connectionism."
+  authors: "Dieuwke Hupkes, Verna Dankers, Mathijs Mul and Elia Bruni"
+  year: 2019
+  image: manifesto_tests.png
+  description: "The compositionality of neural networks has been a hot topic recently, on which no consensus exists.
+  In this paper, we argue that this in part stems from the fact that there is little consensus on what it means for a network to be compositional, and we present a set of five tests that provide a bridge between the linguistic and philosophical knowledge about compositionality and deep neural networks.
+  We use our tests to evaluate a recurrent model, a convolution-based model and a Transformer, and provide an in depth analysis of the results." 
+  venue: "" 
+  highlight: 1
+  link:
+    url: https://arxiv.org/pdf/1908.08351.pdf
+    display: preprint 
+  news2:
+
+- title: "Mastering emergent language: learning to guide in simulated navigation"
+  authors: "Mathijs Mul, Diane Bouchacourt and Elia Bruni"
+  link:
+      url: https://arxiv.org/abs/1908.05135
+      display: preprint
+
 - title: "Assessing incrementality in sequence-to-sequence models"
-  authors: Dennis Ulmer, Dieuwke Hupkes and Elia Bruni
+  authors: Dennis Ulmer, Dieuwke Hupkes and Eia Bruni
   year: 2019
   image: dummy.png
   description: "" 
   venue: "Repl4NLP,&nbsp; ACL 2019"
   link:
-    url: https://arxiv.org/pdf/1906.03293.pdf
+    url: https://arxiv.org/abs/1908.05135
     display: paper 
+  news2:
+
+- title: "Assessing incrementality in sequence-to-sequence models"
+  authors: Dennis Ulmer, Dieuwke Hupkes and Elia Bruni
+  year: 2019
+  image: dummy.png
+  description: ""
+  venue: "Repl4NLP,&nbsp; ACL 2019"
+  link:
+    url: https://arxiv.org/pdf/1906.03293.pdf
+    display: paper
   news2:
 
 - title: "Transcoding compositionally: using attention to find more generalizable solutions"
@@ -42,7 +73,6 @@
   link:
     url: https://arxiv.org/pdf/1809.06194.pdf
     display:  paper
-  highlight: 1
   news2:
 
 - title: "Learning compositionally through attentive guidance"

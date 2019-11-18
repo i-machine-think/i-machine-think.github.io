@@ -6,13 +6,17 @@
   image: KrisBlackboxNLP.jpg
   first:
 
-- text: Mathijs defending his master thesis work
-  image: mathijs_presentation.jpg
+- text: Gautier defending his master thesis work
+  image: gautier_defence.jpeg
   first: 
 
-- text: Diana defending her master thesis work
-  image: diana_presentation.jpeg
-  first:
+- text: Bence defending his master thesis work
+  image: bence_defence.jpeg
+  first: 
+
+- text: Aron defending his master thesis work
+  image: aron_defence.jpg
+  first: 
 
 - text: Dieuwke Hupkes presenting on emerging languages at <a href="http://www.lel.ed.ac.uk/cle/index.php/ielc2019/">IECL</a> in Edinburgh
   image: Dieuwke_Edinburgh.jpeg
