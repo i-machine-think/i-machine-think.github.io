@@ -52,6 +52,10 @@ We are a research group at the University of Amsterdam.
   </a>
 </div>
 
-More info will follow soon!
-Meanwhile, check out the diagnostics library are creating to make interpretability easier: <a href="https://github.com/i-machine-think/diagnnose"> https://github.com/i-machine-think/diagnnose</a>!
+In our group, we consider different research topics, including but not limited to <i>Compositionality</i>, <i>interpretability of neural networks</i>, <i>neural language models</i> and <i>language emergence in referential games</i>.
+We collaborate with several people from both other universities and industry.
+Are you a master student and looking for a research project? 
+Have a look at our publications page, check <a href="https://eliabruni.github.io/" target='_blank'>Elia Bruni's</a> or <a href="http://dieuwkehupkes.nl/" target='_blank'>Dieuwke Hupkes'</a> personal websites, or get in touch via email!
+
+Also, have a look at our interpretability library for neural networks: <a href="https://github.com/i-machine-think/diagnnose"> https://github.com/i-machine-think/diagnnose</a>!
 
