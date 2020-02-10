@@ -12,6 +12,13 @@
     display: preprint 
   news2:
 
+- title: "Analysing neural language models: contextual decomposition reveals default reasoning in number and gender assignment"
+  authors: "Jaap Jumelet, Willem Zuidema and Dieuwke Hupkes"
+  link: 
+    url: https://www.aclweb.org/anthology/K19-1001.pdf
+    display: paper
+    
+
 - title: "Mastering emergent language: learning to guide in simulated navigation"
   authors: "Mathijs Mul, Diane Bouchacourt and Elia Bruni"
   link:
@@ -25,19 +32,8 @@
   description: "" 
   venue: "Repl4NLP,&nbsp; ACL 2019"
   link:
-    url: https://arxiv.org/abs/1908.05135
+    url: https://www.aclweb.org/anthology/W19-4324.pdf
     display: paper 
-  news2:
-
-- title: "Assessing incrementality in sequence-to-sequence models"
-  authors: Dennis Ulmer, Dieuwke Hupkes and Elia Bruni
-  year: 2019
-  image: dummy.png
-  description: ""
-  venue: "Repl4NLP,&nbsp; ACL 2019"
-  link:
-    url: https://arxiv.org/pdf/1906.03293.pdf
-    display: paper
   news2:
 
 - title: "Transcoding compositionally: using attention to find more generalizable solutions"
@@ -47,7 +43,7 @@
   description: "" 
   venue: "BlackboxNLP,&nbsp; ACL 2019"
   link:
-    url: https://arxiv.org/pdf/1906.01234.pdf
+    url: https://www.aclweb.org/anthology/W19-4801.pdf
     display: paper
   news2:
 
@@ -58,7 +54,7 @@
   venue: "BlackboxNLP,&nbsp; ACL 2019"
   year: 2019
   link:
-    url: https://arxiv.org/pdf/1906.01634.pdf
+    url: https://www.aclweb.org/anthology/W19-4814.pdf
     display: paper
   news2:
 
@@ -71,7 +67,7 @@
   venue: IWCS 2019
   year: 2019
   link:
-    url: https://arxiv.org/pdf/1809.06194.pdf
+    url: https://www.aclweb.org/anthology/W19-0419.pdf
     display:  paper
   news2:
 
