@@ -24,7 +24,7 @@
   email: olivieronardi@gmail.com
 
 - name: Oskar van de Wal
-  photo: OvdWal.jpeg
+  photo: OvdWal.png
   info: AI Msc student, UvA
   email: oskar.vanderwal@gmail.com
 
@@ -42,16 +42,6 @@
   photo: JJumelet.jpeg
   info: AI Msc student, UvA
   email: jumeletjaap@gmail.com
-
-- name: Benjamin Kolb
-  photo: BKolb.png
-  info: AI Msc student, UvA
-  email: benjamin.kolb@student.uva.nl
-
-- name: Leon Lang
-  photo: LLang.jpg
-  info: AI Msc student, UvA
-  email: leon.lang@student.uva.nl
 
 - name: Oscar Ligthart
   photo: OLigthart.jpeg
