@@ -56,7 +56,12 @@
 - name: Oscar Ligthart
   photo: OLigthart.jpeg
   info: AI Msc student, UvA
-  email: oscarligthart@gmail.com 
+  email: oscarligthart@gmail.com
+
+- name: Klaus Ondrag
+  photo: KOndrag.jpeg
+  info: AI Msc student, UvA
+  email: klaus.ondrag@student.uva.nl
 
 - name: David Speck
   photo: DSpeck.png
