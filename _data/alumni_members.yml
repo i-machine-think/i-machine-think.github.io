@@ -1,12 +1,12 @@
-- name: Leon Lang
-  photo: LLang.jpg
-  role: Msc AI project
-  email: Spring 2019
+ - name: Leon Lang
+   photo: LLang.jpg
+   role: Msc AI project
+   duration: Spring 2019
 
-- name: Benjamin Kolb
-  photo: BKolb.png
-  role: Msc AI project
-  email: Spring 2019
+ - name: Benjamin Kolb
+   photo: BKolb.png
+   role: Msc AI project
+   duration:  Spring 2019
 
  - name: Bogdan Teleaga
    photo: BTeleaga.jpeg
