@@ -8,8 +8,13 @@
 #  education3:
 #  education4:
 #
+- name: Jeroen Taal
+  photo: JTaal.jpeg
+  info: AI Bsc student, UvA
+  email: jeroen.taal@student.uva.nl
+
 - name: Hugh Mae Wong
-  photo: 
+  photo: HMWong.jpeg
   info: AI Bsc student, UvA
   email: HMW_Hugh1999@hotmail.com
 
