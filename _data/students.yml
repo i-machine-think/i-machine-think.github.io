@@ -8,6 +8,11 @@
 #  education3:
 #  education4:
 #
+- name: Hugh Mae Wong
+  photo: 
+  info: AI Bsc student, UvA
+  email: HMW_Hugh1999@hotmail.com
+
 - name: Tom Kersten
   photo: TKersten.jpeg
   info: AI Msc student, UvA
@@ -17,11 +22,6 @@
   photo: MNeely.jpeg
   info: AI Msc student, UvA
   email: michaelneely@protonmail.com
-
-- name: Oliviero Nardi
-  photo: ONardi.png
-  info: AI Msc student, UvA
-  email: olivieronardi@gmail.com
 
 - name: Oskar van de Wal
   photo: OvdWal.png
