@@ -15,9 +15,12 @@
 - title: "Location Attention for Extrapolation to Longer Sequences"
   authors: "Yann Dubois, Gautier Dagan, Dieuwke Hupkes, Elia Bruni"
   venue: "ACL2020"
+  link:
+      url: "https://arxiv.org/pdf/1911.03872.pdf"
+      display: "preprint"
 
 - title: "Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency."
-  author: "Diana Rodríguez Luna, Edoardo Maria Ponti, Dieuwke Hupkes and Elia Bruni"
+  authors: "Diana Rodríguez Luna, Edoardo Maria Ponti, Dieuwke Hupkes and Elia Bruni"
   link: 
     url: https://arxiv.org/pdf/2004.03868.pdf
     display: preprint
