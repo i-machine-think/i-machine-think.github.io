@@ -1,4 +1,4 @@
-- title: "The compositionality of neural networks: integrating symbolism and connectionism."
+- title: "Compositionality decomposed: how do neural networks generalise?"
   authors: "Dieuwke Hupkes, Verna Dankers, Mathijs Mul and Elia Bruni"
   year: 2019
   image: manifesto_tests.png
@@ -12,12 +12,21 @@
     display: preprint 
   news2:
 
+- title: "Location Attention for Extrapolation to Longer Sequences"
+  authors: "Yann Dubois, Gautier Dagan, Dieuwke Hupkes, Elia Bruni"
+  venue: "ACL2020"
+
+- title: "Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency."
+  author: "Diana Rodríguez Luna, Edoardo Maria Ponti, Dieuwke Hupkes and Elia Bruni"
+  link: 
+    url: https://arxiv.org/pdf/2004.03868.pdf
+    display: preprint
+
 - title: "Analysing neural language models: contextual decomposition reveals default reasoning in number and gender assignment"
   authors: "Jaap Jumelet, Willem Zuidema and Dieuwke Hupkes"
   link: 
     url: https://www.aclweb.org/anthology/K19-1001.pdf
     display: paper
-    
 
 - title: "Mastering emergent language: learning to guide in simulated navigation"
   authors: "Mathijs Mul, Diane Bouchacourt and Elia Bruni"
