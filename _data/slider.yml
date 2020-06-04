@@ -1,22 +1,14 @@
+- text: Oscar digitally defending his thesis
+  image: oscar_defence.jpeg
+  first: true
+
 - text: Dennis presenting at BlackboxNLP2019
   image: DennisBlackboxNLP.jpg
-  first: true
+  first: 
 
 - text: Kris explaining his work to many interested at BlackboxNLP2019
   image: KrisBlackboxNLP.jpg
   first:
-
-- text: Gautier defending his master thesis work
-  image: gautier_defence.jpeg
-  first: 
-
-- text: Bence defending his master thesis work
-  image: bence_defence.jpeg
-  first: 
-
-- text: Aron defending his master thesis work
-  image: aron_defence.jpg
-  first: 
 
 - text: Dieuwke Hupkes presenting on emerging languages at <a href="http://www.lel.ed.ac.uk/cle/index.php/ielc2019/">IECL</a> in Edinburgh
   image: Dieuwke_Edinburgh.jpeg
