@@ -2,6 +2,10 @@
   image: oscar_defence.jpeg
   first: true
 
+- text: Dieuwke defending her doctorate dissertation
+  image: dieuwke_defence.jpeg
+  first: 
+
 - text: Dennis presenting at BlackboxNLP2019
   image: DennisBlackboxNLP.jpg
   first: 
