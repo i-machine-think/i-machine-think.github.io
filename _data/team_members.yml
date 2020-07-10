@@ -1,6 +1,6 @@
 - name: Elia Bruni
   photo: EBruni.jpeg
-  info: Postdoctoral fellow at UPF, Barcelona
+  info: interim professor at the University of Osnabruek
   email: elia.bruni@gmail.com
   number_educ: 0
   number_interests: 3
@@ -10,7 +10,7 @@
 
 - name: Dieuwke Hupkes
   photo: DHupkes.jpg
-  info: Temporary lecturer at the UvA
+  info: Postdoc in <a href="https://ellis.eu/" target="_blank">ELLIS</a>, UvA
   email: d.hupkes@uva.nl
   number_educ: 0
   number_interests: 3
