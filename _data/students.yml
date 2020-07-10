@@ -7,7 +7,10 @@
 #  education2:
 #  education3:
 #  education4:
-#
+- name: Anna langedijk
+  photo: avatar.png
+  info: Msc AI and computer science
+
 - name: Jeroen Taal
   photo: JTaal.jpeg
   info: AI Bsc student, UvA
