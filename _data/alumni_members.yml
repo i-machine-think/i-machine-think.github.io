@@ -1,10 +1,12 @@
+ - name: Oscar Ligthart
+   role: Master Thesis
+   duration: September 2019 - May 2020
+
  - name: Silvan de Boer
-   photo: Sdeboer.jpeg
-   info: AI Msc student, UvA
+   role: Project AI
    duration: June 2019
 
  - name: Leon Lang
-   photo: LLang.jpg
    role: Msc AI project
    duration: Spring 2019
 
