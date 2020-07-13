@@ -8,7 +8,7 @@
 #  education3:
 #  education4:
 - name: Anna langedijk
-  photo: avatar.png
+  photo: ALangedijk.png
   info: Msc AI and computer science
   email: annalangedijk@gmail.com
 
@@ -36,16 +36,6 @@
   photo: OvdWal.png
   info: AI Msc student, UvA
   email: oskar.vanderwal@gmail.com
-
-- name: Verna Dankers
-  photo: VDankers.jpeg
-  info: Graduated AI Msc student, UvA
-  email: verna.dankers@gmail.com
-
-- name: Oscar Ligthart
-  photo: OLigthart.jpeg
-  info: Graduated AI Msc student, UvA
-  email: oscarligthart@gmail.com
 
 - name: Klaus Ondrag
   photo: KOndrag.jpg
