@@ -1,6 +1,10 @@
+- text: Oskar's digital thesis defence
+  image: oskar_defence.jpg
+  first: true
+
 - text: Oscar digitally defending his thesis
   image: oscar_defence.jpeg
-  first: true
+  first: 
 
 - text: Dieuwke defending her doctorate dissertation
   image: dieuwke_defence.JPG
