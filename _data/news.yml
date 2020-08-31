@@ -1,3 +1,8 @@
+- date: "August 29, 2020"
+  headline: "An article about Dieuwke's work appeared in a national Dutch newspaper. You can read it <a href='https://i-machine-think.github.io/documents/Trouw-29-08-2020-article.pdf' target='_blank'>here</a> (in Dutch)."
+  content: "An article about Dieuwke's work appeared in a national Dutch newspaper. You can read it <a href='https://i-machine-think/documents/Trouw-29-08-2020-article.pdf' target='_blank'>here</a> (in Dutch). What do you think about the controversial title?"
+  image: Trouw.png
+
 - date: "August 3, 2020"
   headline: "Oskar van der Wal just succesfully defended his Msc thesis. Congrats with your fine work Oskar!"
   image: oskar_defence.jpg
