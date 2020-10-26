@@ -11,120 +11,119 @@
   role: Bsc thesis
   duration: March-June 2020
 
- - name: Oscar Ligthart
-   role: Master Thesis
-   duration: September 2019 - May 2020
+- name: Oscar Ligthart
+  role: Master Thesis
+  duration: September 2019 - May 2020
 
- - name: Silvan de Boer
-   role: Project AI
-   duration: June 2019
+- name: Silvan de Boer
+  role: Project AI
+  duration: June 2019
 
- - name: Leon Lang
-   role: Msc AI project
-   duration: Spring 2019
+- name: Leon Lang
+  role: Msc AI project
+  duration: Spring 2019
 
- - name: Benjamin Kolb
-   photo: BKolb.png
-   role: Msc AI project
-   duration:  Spring 2019
+- name: Benjamin Kolb
+  photo: BKolb.png
+  role: Msc AI project
+  duration:  Spring 2019
 
- - name: Bogdan Teleaga
-   photo: BTeleaga.jpeg
-   role: Msc AI thesis
-   duration: December 2018 - October 2019
- 
- - name: Michiel van der Meer
-   photo: MvdMeer.jpeg
-   role: Msc AI thesis
-   duration: December 2018 - October 2019
- 
- - name: Bence Keresztury
-   photo: BKeresztury.jpeg 
-   role: Msc AI thesis
-   duration: December 2018 - August 2019
- 
- - name: Dennis Ulmer
-   photo: DUlmer.jpeg
-   role: Msc AI thesis
-   duration: December 2018 - August 2019
- 
- - name: Thomas Unger
-   photo: TUnger.jpg
-   role: Msc AI thesis
-   duration: December 2018 - August 2019
- 
- - name: Gautier Dagan
-   photo: GDagan.jpeg
-   role: Individual project and Msc AI thesis
-   duration: June 2018 - August 2019
- 
- - name: Aron Hammond
-   photo: AHammond.jpeg
-   role: Msc AI Thesis
-   duration: December 2018 - August 2019
+- name: Bogdan Teleaga
+  photo: BTeleaga.jpeg
+  role: Msc AI thesis
+  duration: December 2018 - October 2019
 
- - name: Tim Baumgaertner
-   photo: TBaumgaertner.jpeg 
-   duration: September 2017 - April 2019
-   role: Master Thesis and co-supervisor
-   info: 
+- name: Michiel van der Meer
+  photo: MvdMeer.jpeg
+  role: Msc AI thesis
+  duration: December 2018 - October 2019
 
- - name: Anand Kumar Singh
-   photo: ASingh.jpeg
-   role: Master thesis
-   duration: January - Augustus 2018
-   info: Data analyst at ING
+- name: Bence Keresztury
+  photo: BKeresztury.jpeg 
+  role: Msc AI thesis
+  duration: December 2018 - August 2019
 
- - name: Kris Korrel
-   photo: KKorrel.jpeg
-   role: Master thesis
-   duration: January - November 2018
-   info: clockworks.co
+- name: Dennis Ulmer
+  photo: DUlmer.jpeg
+  role: Msc AI thesis
+  duration: December 2018 - August 2019
 
- - name: Rezka Aufar Leonandya
-   photo: RLeonandya.jpeg
-   role: Master thesis
-   duration: January - August 2018
-   info: PhD student with Alexander Koller, Saarbrucken
+- name: Thomas Unger
+  photo: TUnger.jpg
+  role: Msc AI thesis
+  duration: December 2018 - August 2019
 
- - name: Ujjwal Sharma
-   photo: USharma.jpeg
-   role: Master thesis
-   duration: January - September 2018
-   info:  PhD Student with Stevan Rudinac, UvA 
+- name: Gautier Dagan
+  photo: GDagan.jpeg
+  role: Individual project and Msc AI thesis
+  duration: June 2018 - August 2019
 
- - name: Krsto Prorocovic
-   photo: KProrokovic.png 
-   role: Master thesis
-   duration: January - September 2018
-   info: PhD Student with Juergen Schmidhuber, IDSIA
+- name: Aron Hammond
+  photo: AHammond.jpeg
+  role: Msc AI Thesis
+  duration: December 2018 - August 2019
 
- - name: Sanne Bouwmeester
-   photo: SBouwmeester.jpeg 
-   role: Master thesis
-   duration: January - September 2018
-   info:  Bussiness Intelligence Expert/Developer at Topicus
+- name: Tim Baumgaertner
+  photo: TBaumgaertner.jpeg 
+  duration: September 2017 - April 2019
+  role: Master Thesis and co-supervisor
+  info: 
 
- - name: Yann Dubois
-   photo: YDubois.jpeg
-   role: Visiting student
-   duration: Summer 2018
-   info: Cambridge University and Facebook AI Research
+- name: Anand Kumar Singh
+  photo: ASingh.jpeg
+  role: Master thesis
+  duration: January - Augustus 2018
+  info: Data analyst at ING
 
- - name: David Rau
-   photo: DRau.jpeg
-   role: Independent project
-   duration: June - February 2019
-   info:
+- name: Kris Korrel
+  photo: KKorrel.jpeg
+  role: Master thesis
+  duration: January - November 2018
+  info: clockworks.co
 
- - name: Diana Rodriguez Luna
-   photo: DLuna.jpeg
-   role: Master thesis
-   duration: January - July 2019
-   info: Engineer at Microsoft
+- name: Rezka Aufar Leonandya
+  photo: RLeonandya.jpeg
+  role: Master thesis
+  duration: January - August 2018
+  info: PhD student with Alexander Koller, Saarbrucken
 
- - name: Mathijs Mul
-   photo: MMul.jpeg
-   role: Master thesis
-   duration: January - July 2019
-   info:
+- name: Ujjwal Sharma
+  photo: USharma.jpeg
+  role: Master thesis
+  duration: January - September 2018
+  info:  PhD Student with Stevan Rudinac, UvA 
+
+- name: Krsto Prorocovic
+  photo: KProrokovic.png 
+  role: Master thesis
+  duration: January - September 2018
+  info: PhD Student with Juergen Schmidhuber, IDSIA
+
+- name: Sanne Bouwmeester
+  photo: SBouwmeester.jpeg 
+  role: Master thesis
+  duration: January - September 2018
+  info:  Bussiness Intelligence Expert/Developer at Topicus
+
+- name: Yann Dubois
+  photo: YDubois.jpeg
+  role: Visiting student
+  duration: Summer 2018
+  info: Cambridge University and Facebook AI Research
+
+- name: David Rau
+  photo: DRau.jpeg
+  role: Independent project
+  duration: June - February 2019
+  info:
+
+- name: Diana Rodriguez Luna
+  photo: DLuna.jpeg
+  role: Master thesis
+  duration: January - July 2019
+  info: Engineer at Microsoft
+
+- name: Mathijs Mul
+  photo: MMul.jpeg
+  role: Master thesis
+  duration: January - July 2019
