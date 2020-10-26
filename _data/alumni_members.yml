@@ -1,3 +1,8 @@
+- name: Oskar van de Wal
+  role: Individual project, Msc thesis
+  email: June 2019 - August 2020
+  info: PhD student at the ILLC
+
 - name: Jeroen Taal
   role: Bsc thesis
   duration: March-June 2020
@@ -116,7 +121,7 @@
    photo: DLuna.jpeg
    role: Master thesis
    duration: January - July 2019
-   info:
+   info: Engineer at Microsoft
 
  - name: Mathijs Mul
    photo: MMul.jpeg

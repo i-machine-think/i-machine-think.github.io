@@ -7,35 +7,20 @@
 #  education2:
 #  education3:
 #  education4:
+- name: Sylke Gosen
+  photo: SGosen.jpeg
+  info: Msc AI
+  email: sylkegosen@hotmail.com
+
 - name: Anna langedijk
   photo: ALangedijk.png
   info: Msc AI and computer science
   email: annalangedijk@gmail.com
 
-- name: Jeroen Taal
-  photo: JTaal.jpeg
-  info: AI Bsc student, UvA
-  email: jeroen.taal@student.uva.nl
-
-- name: Hugh Mee Wong
-  photo: HMWong.jpeg
-  info: AI Bsc student, UvA
-  email: hughmee.wong@student.uva.nl
-
 - name: Tom Kersten
   photo: TKersten.jpeg
   info: AI Msc student, UvA
   email: t.kersten98@gmail.com
-
-- name: Michael Neely
-  photo: MNeely.jpeg
-  info: AI Msc student, UvA
-  email: michaelneely@protonmail.com
-
-- name: Oskar van de Wal
-  photo: OvdWal.png
-  info: AI Msc student, UvA
-  email: oskar.vanderwal@gmail.com
 
 - name: Klaus Ondrag
   photo: KOndrag.jpg
