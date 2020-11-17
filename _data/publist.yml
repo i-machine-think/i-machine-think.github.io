@@ -1,3 +1,19 @@
+- title: "Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency."
+  authors: "Diana Rodriguez Luna, Edoardo Ponti, Dieuwke Hupkes, and Elia Bruni "
+  year: 2020
+  venue: "EMNLP-Findings"
+  link:
+    url: https://arxiv.org/pdf/2004.03868.pdf
+    display: preprint 
+
+- title: "The grammar of emergent languages"
+  authors: "Oskar van der wal, Silvan de Boer, Elia Bruni and Dieuwke Hupkes"
+  venue: "EMNLP 2020"
+  year: 2020
+  link:
+      url: "https://www.aclweb.org/anthology/2020.emnlp-main.270.pdf"
+      display: paper
+
 - title: "Compositionality decomposed: how do neural networks generalise?"
   authors: "Dieuwke Hupkes, Verna Dankers, Mathijs Mul and Elia Bruni"
   year: 2020
@@ -17,8 +33,8 @@
   year: 2020
   venue: "ACL 2020"
   link:
-      url: "https://arxiv.org/pdf/1911.03872.pdf"
-      display: "preprint"
+      url: "https://www.aclweb.org/anthology/2020.acl-main.39.pdf"
+      display: "paper"
 
 - title: "Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency."
   authors: "Diana Rodríguez Luna, Edoardo Maria Ponti, Dieuwke Hupkes and Elia Bruni"
