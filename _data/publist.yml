@@ -19,8 +19,8 @@
   year: 2020
   venue: "EMNLP-Findings"
   link:
-    url: https://arxiv.org/pdf/2004.03868.pdf
-    display: preprint 
+    url: https://www.aclweb.org/anthology/2020.findings-emnlp.397.pdf
+    display: paper
 
 - title: "The grammar of emergent languages"
   authors: "Oskar van der wal, Silvan de Boer, Elia Bruni and Dieuwke Hupkes"
