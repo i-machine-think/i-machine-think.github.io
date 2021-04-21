@@ -1,3 +1,6 @@
+- text: Presenting papers digital style
+  image: EACL_lucas.png
+
 - text: Oskar's digital thesis defence
   image: oskar_defence.jpg
   first: true
@@ -17,7 +20,3 @@
 - text: Kris explaining his work to many interested at BlackboxNLP2019
   image: KrisBlackboxNLP.jpg
   first:
-
-- text: Dieuwke Hupkes presenting on emerging languages at <a href="http://www.lel.ed.ac.uk/cle/index.php/ielc2019/">IECL</a> in Edinburgh
-  image: Dieuwke_Edinburgh.jpeg
-  first: 
