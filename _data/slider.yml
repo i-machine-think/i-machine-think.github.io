@@ -1,9 +1,10 @@
 - text: Presenting papers digital style
-  image: EACL_lucas.png
+  image: EACL_Lucas.png
+  first: true
 
 - text: Oskar's digital thesis defence
   image: oskar_defence.jpg
-  first: true
+  first: 
 
 - text: Oscar digitally defending his thesis
   image: oscar_defence.jpeg
