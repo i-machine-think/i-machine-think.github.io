@@ -1,23 +1,23 @@
 - name: Sylke Gosen
-  photo: MsC thesis
+  role: MSc AI thesis
   duration: November 2020 - June 2021
-  info: 
+  info: M
 
 - name: Oskar van de Wal
-  role: Individual project, Msc thesis
+  role: Individual project, MSc thesis
   duration: June 2019 - August 2020
   info: PhD student at the ILLC
 
 - name: Jeroen Taal
-  role: Bsc thesis
+  role: BSc thesis
   duration: March-June 2020
 
 - name: Hugh Mee Wong
-  role: Bsc thesis
+  role: BSc thesis
   duration: March-June 2020
 
 - name: Oscar Ligthart
-  role: Master Thesis
+  role: MSc AI thesis
   duration: September 2019 - May 2020
 
 - name: Silvan de Boer
@@ -25,47 +25,47 @@
   duration: June 2019
 
 - name: Leon Lang
-  role: Msc AI project
+  role: MSc AI project
   duration: Spring 2019
 
 - name: Benjamin Kolb
   photo: BKolb.png
-  role: Msc AI project
+  role: MSc AI project
   duration:  Spring 2019
 
 - name: Bogdan Teleaga
   photo: BTeleaga.jpeg
-  role: Msc AI thesis
+  role: MSc AI thesis
   duration: December 2018 - October 2019
 
 - name: Michiel van der Meer
   photo: MvdMeer.jpeg
-  role: Msc AI thesis
+  role: MSc AI thesis
   duration: December 2018 - October 2019
 
 - name: Bence Keresztury
   photo: BKeresztury.jpeg 
-  role: Msc AI thesis
+  role: MSc AI thesis
   duration: December 2018 - August 2019
 
 - name: Dennis Ulmer
   photo: DUlmer.jpeg
-  role: Msc AI thesis
+  role: MSc AI thesis
   duration: December 2018 - August 2019
 
 - name: Thomas Unger
   photo: TUnger.jpg
-  role: Msc AI thesis
+  role: MSc AI thesis
   duration: December 2018 - August 2019
 
 - name: Gautier Dagan
   photo: GDagan.jpeg
-  role: Individual project and Msc AI thesis
+  role: Individual project and MSc AI thesis
   duration: June 2018 - August 2019
 
 - name: Aaron Hammond
   photo: AHammond.jpeg
-  role: Msc AI Thesis
+  role: MSc AI Thesis
   duration: December 2018 - August 2019
 
 - name: Tim Baumgaertner
