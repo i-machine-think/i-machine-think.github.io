@@ -1,10 +1,21 @@
+- title: "The paradox of the compositionality of natural language: a neural machine translation case study."
+- authors: "Verna Dankers, Elia Bruni and Dieuwke Hupkes"
+  year: 2021
+  venue: ""
+  link:
+    url: https://arxiv.org/pdf/2108.05885.pdf
+    display: preprint
+
 - title: "Generalising to German Plural Noun Classes, from the Perspective of a Recurrent Neural Network"
   authors: "Verna Dankers, Anna Langedijk, Kate McCurdy, Adina Williams, Dieuwke Hupkes"
   year: 2021
-  venue: "CoNLL"
+  venue: "CoNLL, <b>Best Paper Award</b>"
+  image: schematic_overview_morphology.pdf
+  description: "Inflectional morphology has since long been a useful testing ground for broader questions about generalisation in language and the viability of neural network models as cognitive models of language. Here, in line with that tradition, we explore how recurrent neural networks acquire the complex German plural system and reflect upon how their strategy compares to human generalisation and rule-based models of this system. We perform analyses including behavioural experiments, diagnostic classification, representation analysis and causal interventions, suggesting that the models rely on features that are also key predictors in rule-based models of German plurals. However, the models also display shortcut learning, which is crucial to overcome in search of more cognitively plausible generalisation behaviour."
+  highlight: 1
   link:
     url: https://aclanthology.org/2021.conll-1.8/
-    display: 
+    display:  paper
 
 - title: "Attention vs Non-attention for a Shapley-based Explanation Method"
   authors: "Tom Kersten, Hugh Mee Wong, Jaap Jumelet and Dieuwke Hupkes"
@@ -12,7 +23,7 @@
   venue: "DeeLIO 2021"
   link:
     url: https://arxiv.org/pdf/2104.12424.pdf
-    display: 
+    display: paper
 
 - title: "Co-evolution of language and agents in referential games"
   authors: "Gautier Dagan, Dieuwke Hupkes and Elia Bruni"
@@ -71,8 +82,8 @@
 - title: "Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency."
   authors: "Diana Rodríguez Luna, Edoardo Maria Ponti, Dieuwke Hupkes and Elia Bruni"
   link: 
-    url: https://arxiv.org/pdf/2004.03868.pdf
-    display: preprint
+    url: https://www.aclweb.org/anthology/2020.findings-emnlp.397.pdf
+    display: paper
 
 - title: "Analysing neural language models: contextual decomposition reveals default reasoning in number and gender assignment"
   authors: "Jaap Jumelet, Willem Zuidema and Dieuwke Hupkes"
@@ -141,7 +152,6 @@
   link:
       url: https://arxiv.org/pdf/1805.09657.pdf
       display:  paper
-  highlight: 1
   year: 2019
   venue: "CICLing 2019"
   news2:
