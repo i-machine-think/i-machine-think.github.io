@@ -3,7 +3,6 @@ title: "I-Machine-Think - Talks"
 layout: gridlay
 excerpt: "I-Machine-Think -- Talks."
 sitemap: false
-permalink: /talks/
 ---
 
 ## Talks
