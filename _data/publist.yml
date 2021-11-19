@@ -1,3 +1,11 @@
+- title: "Generalising to German Plural Noun Classes, from the Perspective of a Recurrent Neural Network"
+  authors: "Verna Dankers, Anna Langedijk, Kate McCurdy, Adina Williams, Dieuwke Hupkes"
+  year: 2021
+  venue: "CoNLL"
+  link:
+    url: https://aclanthology.org/2021.conll-1.8/
+    display: 
+
 - title: "Attention vs Non-attention for a Shapley-based Explanation Method"
   authors: "Tom Kersten, Hugh Mee Wong, Jaap Jumelet and Dieuwke Hupkes"
   year: 2021
