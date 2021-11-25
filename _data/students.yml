@@ -8,6 +8,20 @@
 #  education3:
 #  education4:
 
+- name: Ard Snijders
+  photo: ASnijders.png
+  info: Msc AI student, UvA
+  email: ardsnijders@gmail.com
+
+- name: Mozes van de Kar
+  photo: MvdKar.jpeg
+  info: Msc AI student, UvA
+  email: mozesvandekar@gmail.com
+
+- name: Jeroen Taal
+  photo: JTaal.jpeg
+  info: Msc AI student, UvA
+  email: jeroen1749@gmail.com
 
 - name: Hugh Mee Wong
   photo: HMWong.jpeg
