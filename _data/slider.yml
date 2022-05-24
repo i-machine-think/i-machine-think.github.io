@@ -1,6 +1,10 @@
+- text: Verna presenting his poster at ACL2020 -- ON SITE!
+  image: Verna_ACL_2022.jpg
+  first: true
+
 - text: Lucas presenting his paper virtually at EACL
   image: EACL_Lucas.png
-  first: true
+  first:
 
 - text: Oskar's digital thesis defence
   image: oskar_defence.jpg
